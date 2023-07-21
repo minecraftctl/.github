@@ -1,5 +1,11 @@
 # minecraftctl
 
+[![GitHub](https://img.shields.io/github/license/MemoryShadow/minecraftctl)](LICENSE)
+[![language support](https://img.shields.io/badge/language%20support-i18n-success)](https://github.com/MemoryShadow/minecraftctl/tree/i18n)
+[![Build/release](https://github.com/MemoryShadow/minecraftctl/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/MemoryShadow/minecraftctl/actions/workflows/main.yml)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/MemoryShadow/minecraftctl/latest/total)](https://github.com/MemoryShadow/minecraftctl/releases/latest)
+
 这是一个Minecraft服务端管理工具, 此工具用于帮助运维人员减少重复的操作，帮助他们更加轻松的工作，在保证几乎为0的占用前提下无需修改服务端文件即可支持:  
   后台运行，快速下载部署，启动，停止，重启，备份，恢复备份，向玩家发送消息，监控玩家消息并响应(beta)
 
